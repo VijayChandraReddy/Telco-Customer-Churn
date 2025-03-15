@@ -1,0 +1,4 @@
+2025-03-11 16:07:24,766 - model_training - ERROR - Error loading data: [Errno 2] No such file or directory: './data/processed/dataset.csv'
+2025-03-11 16:07:24,768 - model_training - ERROR - Failed to complete model training process: [Errno 2] No such file or directory: './data/processed/dataset.csv'
+2025-03-14 13:48:19,301 - model_training - DEBUG - Data loaded successfully from ./data/interim/train_processed.csv
+2025-03-14 13:48:24,859 - model_training - INFO - Training random_forest...

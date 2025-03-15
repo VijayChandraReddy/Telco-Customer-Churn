@@ -1,0 +1,106 @@
+2025-03-11 15:54:55,198 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-11 15:54:58,064 - model_building - ERROR - Failed model-building process: train_model() missing 1 required positional argument: 'params'
+2025-03-11 15:56:48,545 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-11 15:56:50,098 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-11 15:56:53,759 - model_building - DEBUG - random_forest model training completed.
+2025-03-11 15:56:53,768 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-11 15:56:53,769 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-11 15:57:11,479 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-11 15:57:11,482 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-11 15:57:11,482 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-11 15:58:42,777 - model_building - DEBUG - svm model training completed.
+2025-03-11 15:58:43,279 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-11 16:01:18,861 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-11 16:01:21,224 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-11 16:01:25,182 - model_building - DEBUG - random_forest model training completed.
+2025-03-11 16:01:25,193 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-11 16:01:25,193 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-11 16:01:44,376 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-11 16:01:44,381 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-11 16:01:44,381 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-11 16:03:37,228 - model_building - DEBUG - svm model training completed.
+2025-03-11 16:03:37,763 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-11 16:14:41,830 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-11 16:14:44,214 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-11 16:14:48,068 - model_building - DEBUG - random_forest model training completed.
+2025-03-11 16:14:48,080 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-11 16:14:48,081 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-11 16:15:05,515 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-11 16:15:05,520 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-11 16:15:05,520 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-11 16:16:23,957 - model_building - DEBUG - svm model training completed.
+2025-03-11 16:16:24,347 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-13 22:11:38,571 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-13 22:11:41,184 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-13 22:11:45,112 - model_building - DEBUG - random_forest model training completed.
+2025-03-13 22:11:45,128 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-13 22:11:45,128 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-13 22:12:02,505 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-13 22:12:02,509 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-13 22:12:02,509 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-13 22:13:17,384 - model_building - DEBUG - svm model training completed.
+2025-03-13 22:13:17,767 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-13 22:26:44,048 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-13 22:26:46,103 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-13 22:26:52,866 - model_building - DEBUG - random_forest model training completed.
+2025-03-13 22:26:52,886 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-13 22:26:52,886 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-13 22:27:23,787 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-13 22:27:23,791 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-13 22:27:23,792 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-13 22:29:42,965 - model_building - DEBUG - svm model training completed.
+2025-03-13 22:29:43,595 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-13 23:36:57,856 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-13 23:37:01,425 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-13 23:37:08,727 - model_building - DEBUG - random_forest model training completed.
+2025-03-13 23:37:08,739 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-13 23:37:08,739 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-13 23:45:58,842 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-13 23:46:02,268 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-13 23:46:07,805 - model_building - DEBUG - random_forest model training completed.
+2025-03-13 23:46:07,818 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-13 23:46:07,818 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-13 23:57:19,650 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-13 23:57:23,076 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-13 23:57:28,931 - model_building - DEBUG - random_forest model training completed.
+2025-03-13 23:57:28,943 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-13 23:57:28,944 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-13 23:57:53,352 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-13 23:57:53,357 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-13 23:57:53,357 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2, 'probability': True}
+2025-03-13 23:59:59,303 - model_building - DEBUG - svm model training completed.
+2025-03-13 23:59:59,918 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-14 13:13:38,845 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-14 13:13:43,023 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-14 13:13:49,716 - model_building - DEBUG - random_forest model training completed.
+2025-03-14 13:13:49,743 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-14 13:13:49,744 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-14 13:14:19,493 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-14 13:14:19,503 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-14 13:14:19,504 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2, 'probability': True}
+2025-03-14 13:56:47,645 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (5634, 5664)
+2025-03-14 13:56:50,078 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-14 13:56:54,623 - model_building - DEBUG - random_forest model training completed.
+2025-03-14 13:56:54,640 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-14 13:56:54,640 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-14 13:57:15,330 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-14 13:57:15,334 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-14 13:57:15,335 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-14 14:09:19,423 - model_building - DEBUG - svm model training completed.
+2025-03-14 14:09:20,066 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-14 14:09:20,067 - model_building - DEBUG - Training model: knn with params: {'n_neighbors': 3, 'weights': 'distance'}
+2025-03-14 14:09:29,723 - model_building - DEBUG - knn model training completed.
+2025-03-14 14:09:30,621 - model_building - DEBUG - Model saved to models/knn.pkl
+2025-03-14 14:26:25,153 - model_building - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (4930, 4960)
+2025-03-14 14:26:26,832 - model_building - DEBUG - Training model: random_forest with params: {'n_estimators': 25, 'random_state': 2}
+2025-03-14 14:26:31,227 - model_building - DEBUG - random_forest model training completed.
+2025-03-14 14:26:31,236 - model_building - DEBUG - Model saved to models/random_forest.pkl
+2025-03-14 14:26:31,236 - model_building - DEBUG - Training model: gradient_boosting with params: {'n_estimators': 50, 'learning_rate': 0.1, 'random_state': 2}
+2025-03-14 14:26:50,326 - model_building - DEBUG - gradient_boosting model training completed.
+2025-03-14 14:26:50,329 - model_building - DEBUG - Model saved to models/gradient_boosting.pkl
+2025-03-14 14:26:50,329 - model_building - DEBUG - Training model: svm with params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 2}
+2025-03-14 14:35:05,620 - model_building - DEBUG - svm model training completed.
+2025-03-14 14:35:06,165 - model_building - DEBUG - Model saved to models/svm.pkl
+2025-03-14 14:35:06,165 - model_building - DEBUG - Training model: knn with params: {'n_neighbors': 3, 'weights': 'distance'}
+2025-03-14 14:35:10,524 - model_building - DEBUG - knn model training completed.
+2025-03-14 14:35:11,141 - model_building - DEBUG - Model saved to models/knn.pkl

@@ -1,0 +1,53 @@
+2025-03-07 01:43:50,117 - data_preprocessing - DEBUG - Data loaded properly
+2025-03-07 01:43:50,118 - data_preprocessing - ERROR - Failed to complete the data transformation process: preprocess_df() takes 1 positional argument but 3 were given
+2025-03-07 01:48:49,204 - data_preprocessing - DEBUG - Data loaded properly
+2025-03-07 01:48:49,205 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-03-07 01:48:49,230 - data_preprocessing - DEBUG - Duplicates removed
+2025-03-07 01:48:49,231 - data_preprocessing - ERROR - Error during text normalization: 'Series' object has no attribute 'select_dtypes'
+2025-03-07 01:48:49,231 - data_preprocessing - ERROR - Failed to complete the data transformation process: 'Series' object has no attribute 'select_dtypes'
+2025-03-07 01:51:25,718 - data_preprocessing - ERROR - File not found: [Errno 2] No such file or directory: './data/raw\\train_data.csv'
+2025-03-08 15:26:57,817 - data_preprocessing - ERROR - File not found: [Errno 2] No such file or directory: './data/raw\\train_data.csv'
+2025-03-08 15:28:13,609 - data_preprocessing - ERROR - File not found: [Errno 2] No such file or directory: 'E:\\Project_1\\data\\train_data.csv'
+2025-03-08 15:29:53,513 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-08 15:29:53,530 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:29:53,531 - data_preprocessing - ERROR - Error in preprocessing: __init__() got an unexpected keyword argument 'sparse_output'
+2025-03-08 15:29:53,531 - data_preprocessing - ERROR - Error in main processing: __init__() got an unexpected keyword argument 'sparse_output'
+2025-03-08 15:31:34,759 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-08 15:31:34,769 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:31:35,289 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:36:59,415 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-08 15:36:59,426 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:36:59,945 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:42:00,690 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-08 15:42:00,706 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 15:42:01,230 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 16:26:15,800 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-08 16:26:15,812 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-08 16:26:16,300 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:55:09,499 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-11 12:55:09,518 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:55:09,979 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:55:28,824 - data_preprocessing - DEBUG - Processed data saved in ./data/interim
+2025-03-11 12:58:46,253 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-11 12:58:46,262 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:58:47,041 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:59:41,093 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-11 12:59:41,102 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 12:59:41,833 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-11 13:00:10,380 - data_preprocessing - DEBUG - Processed data saved in ./data/interim
+2025-03-13 22:41:56,813 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-13 22:41:56,830 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 22:41:57,856 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 22:42:39,687 - data_preprocessing - DEBUG - Processed data saved in ./data/interim
+2025-03-13 23:38:49,865 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-13 23:38:49,885 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 23:38:50,955 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 23:39:30,105 - data_preprocessing - DEBUG - Processed data saved in ./data/interim
+2025-03-13 23:44:43,887 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-13 23:44:43,899 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 23:44:45,125 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-13 23:45:25,852 - data_preprocessing - DEBUG - Processed data saved in ./data/interim
+2025-03-14 14:24:48,600 - data_preprocessing - DEBUG - Data loaded successfully
+2025-03-14 14:24:48,618 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-14 14:24:49,661 - data_preprocessing - DEBUG - Duplicates removed: 0 rows
+2025-03-14 14:25:29,857 - data_preprocessing - DEBUG - Processed data saved in ./data/interim

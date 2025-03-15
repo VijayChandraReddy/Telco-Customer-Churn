@@ -1,0 +1,176 @@
+2025-03-11 16:13:34,030 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv with shape (1409, 1439)
+2025-03-11 16:13:34,375 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-11 16:13:34,428 - model_evaluation - ERROR - Error evaluating model: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-11 16:13:34,428 - model_evaluation - ERROR - Failed model-evaluation process: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-11 16:33:54,878 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv with shape (1409, 1439)
+2025-03-11 16:33:55,182 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-11 16:33:55,236 - model_evaluation - ERROR - Error evaluating model: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-11 16:33:55,237 - model_evaluation - ERROR - Failed model-evaluation process: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-11 16:39:39,625 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2025-03-11 16:39:39,701 - model_evaluation - ERROR - File not found: ./models/model.pkl
+2025-03-11 16:39:39,701 - model_evaluation - ERROR - Failed model-evaluation process: [Errno 2] No such file or directory: './models/model.pkl'
+2025-03-11 16:41:11,519 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2025-03-11 16:41:11,613 - model_evaluation - ERROR - File not found: ./models.pkl
+2025-03-11 16:41:11,613 - model_evaluation - ERROR - Failed model-evaluation process: [Errno 2] No such file or directory: './models.pkl'
+2025-03-11 16:41:42,591 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2025-03-11 16:41:42,670 - model_evaluation - ERROR - Unexpected error occurred while loading the model: [Errno 13] Permission denied: './models'
+2025-03-11 16:41:42,670 - model_evaluation - ERROR - Failed model-evaluation process: [Errno 13] Permission denied: './models'
+2025-03-11 16:42:09,299 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2025-03-11 16:42:09,374 - model_evaluation - ERROR - File not found: ./models/model
+2025-03-11 16:42:09,374 - model_evaluation - ERROR - Failed model-evaluation process: [Errno 2] No such file or directory: './models/model'
+2025-03-11 16:44:19,475 - model_evaluation - DEBUG - Data loaded from ./data/interim/test_processed.csv
+2025-03-11 16:44:19,475 - model_evaluation - ERROR - Unexpected error occurred while loading the model: [Errno 13] Permission denied: 'E:\\Telco-Customer-Churn\\models'
+2025-03-11 16:44:19,476 - model_evaluation - ERROR - Failed model-evaluation process: [Errno 13] Permission denied: 'E:\\Telco-Customer-Churn\\models'
+2025-03-13 22:10:04,584 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:10:04,586 - model_evaluation - ERROR - Model evaluation failed: Target column 'churn' not found in dataset.
+2025-03-13 22:14:21,034 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:14:21,108 - model_evaluation - ERROR - Model file not found: models\customer_churn_model.pkl
+2025-03-13 22:14:21,108 - model_evaluation - ERROR - Model evaluation failed: [Errno 2] No such file or directory: 'models\\customer_churn_model.pkl'
+2025-03-13 22:17:14,912 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:21:07,908 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:21:07,987 - model_evaluation - ERROR - Model evaluation failed: name 'model_dir' is not defined
+2025-03-13 22:21:22,703 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:21:23,015 - model_evaluation - DEBUG - Model loaded successfully from E:/Telco-Customer-Churn/models\gradient_boosting.pkl
+2025-03-13 22:21:23,161 - model_evaluation - ERROR - Error during model evaluation: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:21:23,162 - model_evaluation - ERROR - Model evaluation failed: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:24:49,734 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:24:49,934 - model_evaluation - DEBUG - Model loaded successfully from E:/Telco-Customer-Churn/models\gradient_boosting.pkl
+2025-03-13 22:24:50,090 - model_evaluation - ERROR - Error during model evaluation: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:24:50,091 - model_evaluation - ERROR - Model evaluation failed: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:30:20,901 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:30:21,182 - model_evaluation - DEBUG - Model loaded successfully from E:/Telco-Customer-Churn/models\gradient_boosting.pkl
+2025-03-13 22:30:21,412 - model_evaluation - ERROR - Error during model evaluation: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:30:21,413 - model_evaluation - ERROR - Model evaluation failed: X has 1438 features, but GradientBoostingClassifier is expecting 5663 features as input.
+2025-03-13 22:30:38,689 - model_evaluation - DEBUG - Data loaded successfully from data\interim\test_processed.csv
+2025-03-13 22:30:38,902 - model_evaluation - DEBUG - Model loaded successfully from E:/Telco-Customer-Churn/models\random_forest.pkl
+2025-03-13 22:30:38,970 - model_evaluation - ERROR - Error during model evaluation: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 22:30:38,971 - model_evaluation - ERROR - Model evaluation failed: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:06:48,381 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:06:48,720 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:06:48,810 - model_evaluation - ERROR - Error during evaluation: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:06:48,810 - model_evaluation - ERROR - Error in model evaluation process: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:35:40,861 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:35:41,271 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:35:41,359 - model_evaluation - ERROR - Error during evaluation: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:35:41,361 - model_evaluation - ERROR - Error in model evaluation process: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:36:38,536 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:36:38,784 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:36:38,860 - model_evaluation - ERROR - Error during evaluation: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:36:38,861 - model_evaluation - ERROR - Error in model evaluation process: X has 1438 features, but RandomForestClassifier is expecting 5663 features as input.
+2025-03-13 23:46:27,555 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:46:28,179 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:46:28,579 - model_evaluation - ERROR - Error during evaluation: pos_label=Yes is not a valid label. It should be one of [0.0, 1.0]
+2025-03-13 23:46:28,579 - model_evaluation - ERROR - Error in model evaluation process: pos_label=Yes is not a valid label. It should be one of [0.0, 1.0]
+2025-03-13 23:49:08,239 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:49:08,695 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:49:09,287 - model_evaluation - ERROR - Error during model evaluation: Singleton array array(0) cannot be considered a valid collection.
+2025-03-13 23:49:09,288 - model_evaluation - ERROR - Error in model evaluation process: Singleton array array(0) cannot be considered a valid collection.
+2025-03-13 23:50:04,028 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:50:04,523 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:50:05,182 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-13 23:50:05,183 - model_evaluation - ERROR - Error in model evaluation process: [Errno 2] No such file or directory: 'evaluation_results/random_forest_eval.json'
+2025-03-13 23:53:10,974 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-13 23:53:11,883 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-13 23:53:12,880 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-13 23:53:12,883 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-03-13 23:53:12,890 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-13 23:53:16,087 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-13 23:53:16,088 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-03-13 23:53:16,528 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-13 23:54:36,423 - model_evaluation - ERROR - Error during model evaluation: predict_proba is not available when  probability=False
+2025-03-13 23:54:36,424 - model_evaluation - ERROR - Error in model evaluation process: predict_proba is not available when  probability=False
+2025-03-14 00:00:22,577 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 00:00:23,130 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 00:00:23,892 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:00:23,893 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-03-14 00:00:23,918 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 00:00:26,889 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:00:26,890 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-03-14 00:00:27,065 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 00:01:45,493 - model_evaluation - ERROR - Error during model evaluation: predict_proba is not available when  probability=False
+2025-03-14 00:01:45,493 - model_evaluation - ERROR - Error in model evaluation process: predict_proba is not available when  probability=False
+2025-03-14 00:06:41,284 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 00:06:41,870 - model_evaluation - DEBUG - Test data shape: (1409, 5663)
+2025-03-14 00:06:42,022 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 00:06:42,838 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:06:42,841 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-14 00:06:42,846 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 00:06:46,607 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:06:46,609 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-14 00:06:46,859 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 00:08:17,920 - model_evaluation - ERROR - Error during model evaluation: predict_proba is not available when  probability=False
+2025-03-14 00:08:17,921 - model_evaluation - ERROR - Error in model evaluation process: predict_proba is not available when  probability=False
+2025-03-14 00:09:29,844 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 00:09:30,193 - model_evaluation - DEBUG - Test data shape: (1409, 5663)
+2025-03-14 00:09:30,300 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 00:09:30,933 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:09:30,935 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-14 00:09:30,937 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 00:09:33,785 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:09:33,787 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-14 00:09:33,986 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 00:10:54,010 - model_evaluation - WARNING - Model does not support probability predictions.
+2025-03-14 00:10:54,017 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 00:10:54,020 - model_evaluation - DEBUG - Metrics saved to reports/svm_metrics.json
+2025-03-14 13:23:56,735 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 13:23:57,110 - model_evaluation - DEBUG - Test data shape: (1409, 5663)
+2025-03-14 13:23:57,303 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 13:23:57,878 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 13:23:57,879 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-14 13:23:57,889 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 13:24:01,019 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 13:24:01,019 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-14 13:24:01,501 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 13:25:20,008 - model_evaluation - WARNING - Model does not support probability predictions.
+2025-03-14 13:25:20,013 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 13:25:20,016 - model_evaluation - DEBUG - Metrics saved to reports/svm_metrics.json
+2025-03-14 13:25:20,020 - model_evaluation - INFO - Best model (gradient_boosting) saved to models/best_model.pkl
+2025-03-14 14:16:05,038 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 14:16:05,503 - model_evaluation - DEBUG - Test data shape: (1409, 5663)
+2025-03-14 14:16:05,658 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 14:16:06,387 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:16:06,389 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-14 14:16:06,404 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 14:16:08,965 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:16:08,967 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-14 14:16:09,368 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 14:18:47,022 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:18:47,024 - model_evaluation - DEBUG - Metrics saved to reports/svm_metrics.json
+2025-03-14 14:18:47,493 - model_evaluation - DEBUG - Model loaded from models/knn.pkl
+2025-03-14 14:18:51,585 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:18:51,586 - model_evaluation - DEBUG - Metrics saved to reports/knn_metrics.json
+2025-03-14 14:18:51,590 - model_evaluation - INFO - Best model (gradient_boosting) saved to models/best_model.pkl
+2025-03-14 14:36:04,561 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-14 14:36:05,061 - model_evaluation - DEBUG - Test data shape: (2113, 4959)
+2025-03-14 14:36:05,183 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-14 14:36:06,038 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:36:06,039 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-14 14:36:06,060 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-14 14:36:09,925 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:36:09,926 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-14 14:36:10,132 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-14 14:39:17,362 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:39:17,363 - model_evaluation - DEBUG - Metrics saved to reports/svm_metrics.json
+2025-03-14 14:39:17,525 - model_evaluation - DEBUG - Model loaded from models/knn.pkl
+2025-03-14 14:39:21,809 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-14 14:39:21,810 - model_evaluation - DEBUG - Metrics saved to reports/knn_metrics.json
+2025-03-14 14:39:21,813 - model_evaluation - INFO - Best model (gradient_boosting) saved to models/best_model.pkl
+2025-03-15 16:50:54,314 - model_evaluation - DEBUG - Data loaded successfully from ./data/interim/test_processed.csv
+2025-03-15 16:50:54,929 - model_evaluation - DEBUG - Test data shape: (2113, 4959)
+2025-03-15 16:50:55,108 - model_evaluation - DEBUG - Model loaded from models/random_forest.pkl
+2025-03-15 16:50:56,276 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-15 16:50:56,278 - model_evaluation - DEBUG - Metrics saved to reports/random_forest_metrics.json
+2025-03-15 16:51:09,671 - model_evaluation - INFO - Predictions saved to predictions/random_forest_predictions.csv
+2025-03-15 16:51:09,696 - model_evaluation - DEBUG - Model loaded from models/gradient_boosting.pkl
+2025-03-15 16:51:14,460 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-15 16:51:14,461 - model_evaluation - DEBUG - Metrics saved to reports/gradient_boosting_metrics.json
+2025-03-15 16:51:28,913 - model_evaluation - INFO - Predictions saved to predictions/gradient_boosting_predictions.csv
+2025-03-15 16:51:29,288 - model_evaluation - DEBUG - Model loaded from models/svm.pkl
+2025-03-15 16:57:05,808 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-15 16:57:05,833 - model_evaluation - DEBUG - Metrics saved to reports/svm_metrics.json
+2025-03-15 17:02:45,689 - model_evaluation - INFO - Predictions saved to predictions/svm_predictions.csv
+2025-03-15 17:02:46,158 - model_evaluation - DEBUG - Model loaded from models/knn.pkl
+2025-03-15 17:02:52,204 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-03-15 17:02:52,207 - model_evaluation - DEBUG - Metrics saved to reports/knn_metrics.json
+2025-03-15 17:03:18,580 - model_evaluation - INFO - Predictions saved to predictions/knn_predictions.csv
+2025-03-15 17:03:18,689 - model_evaluation - INFO - Best model (gradient_boosting) saved to models/best_model.pkl

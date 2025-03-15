@@ -1,0 +1,18 @@
+2025-03-07 01:18:06,108 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-07 01:18:06,113 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-07 01:18:06,183 - data_ingestion - DEBUG - train and test data saved to ./data\raw
+2025-03-11 12:54:54,074 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-11 12:54:54,082 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-11 12:54:54,144 - data_ingestion - DEBUG - train and test data saved to ./data\raw
+2025-03-13 22:36:14,554 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-13 22:36:14,559 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-13 22:36:14,628 - data_ingestion - DEBUG - train and test data saved to ./data\raw
+2025-03-13 22:38:19,423 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-13 22:38:19,427 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-13 22:38:19,510 - data_ingestion - DEBUG - train and test data saved to ./data\raw
+2025-03-13 23:41:23,400 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-13 23:41:23,407 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-13 23:41:23,503 - data_ingestion - DEBUG - train and test data saved to ./data\raw
+2025-03-14 14:24:24,089 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/VijayChandraReddy/Telco-Customer-Churn/refs/heads/main/output_dataset.csv
+2025-03-14 14:24:24,098 - data_ingestion - DEBUG - Data preprocessing completed
+2025-03-14 14:24:24,217 - data_ingestion - DEBUG - train and test data saved to ./data\raw
