@@ -1,4 +1,8 @@
 data
+output
+WA
+data/interim/train_processed.csv
+models/svm.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
